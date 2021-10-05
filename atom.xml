@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leleisnothappy.github.io</id>
     <title>张有驰的网站</title>
-    <updated>2021-09-09T11:30:51.257Z</updated>
+    <updated>2021-10-05T06:33:10.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leleisnothappy.github.io"/>
     <link rel="self" href="https://leleisnothappy.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://leleisnothappy.github.io/images/avatar.png</logo>
     <icon>https://leleisnothappy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 张有驰的网站</rights>
+    <entry>
+        <title type="html"><![CDATA[我的世界Java版下载方法（无需正版）]]></title>
+        <id>https://leleisnothappy.github.io/post/wo-de-shi-jie-java-ban-xia-zai-fang-fa-wu-xu-zheng-ban/</id>
+        <link href="https://leleisnothappy.github.io/post/wo-de-shi-jie-java-ban-xia-zai-fang-fa-wu-xu-zheng-ban/">
+        </link>
+        <updated>2021-10-05T06:11:17.000Z</updated>
+        <content type="html"><![CDATA[<p>1.打开电脑，打开浏览器输入 https://hmcl.huangyuhui.net/download 这个网址<img src="https://leleisnothappy.github.io/post-images/1633414447416.jpeg" alt="" loading="lazy">  打开后的页面</p>
+<p>2.点击Windows下载，跳转到文件下载页面，在输入访问密码处输入“5267”<img src="https://leleisnothappy.github.io/post-images/1633414704871.jpeg" alt="" loading="lazy">Windows下载按钮<br>
+<img src="https://leleisnothappy.github.io/post-images/1633414743176.jpeg" alt="" loading="lazy">下载页面</p>
+<p>3.点击文件名（HMCL-X .X.XXX.exe格式）<img src="https://leleisnothappy.github.io/post-images/1633414990705.jpeg" alt="" loading="lazy"><br>
+要点击的地方</p>
+<p>4.点击普通下载（低速）下面的立即下载按钮<br>
+（此时会弹出一个广告，不用管他，直接关掉就行）<img src="https://leleisnothappy.github.io/post-images/1633415072635.jpeg" alt="" loading="lazy"><br>
+要点击的文件名</p>
+<p>（PS：下载后有些浏览器可能会阻止，不用担心，此软件是无毒的）<img src="https://leleisnothappy.github.io/post-images/1633415286556.PNG" alt="" loading="lazy"><br>
+<img src="https://leleisnothappy.github.io/post-images/1633415504269.jpeg" alt="" loading="lazy"><br>
+（某些杀软误报我也没有办法啊）</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这里是张有驰的网站]]></title>
         <id>https://leleisnothappy.github.io/post/ce-shi-wang-zhan/</id>
